@@ -54,6 +54,26 @@ def max_marks(list1):
 
 ## Output:
 
+## i) To find the maximum of marks using the list method sort.
+
+![pyth output 3a](https://github.com/kancharlaNarmadha/FindMaximum/assets/119559316/39520969-66ad-4de5-be9e-1a1d72aadc11)
+
+
+
+
+## ii) To find the maximum marks using the list method max()
+
+
+
+![pyth output 3 2 a](https://github.com/kancharlaNarmadha/FindMaximum/assets/119559316/4ade6f1b-2cbb-4146-9daa-fdc79aaca8cd)
+
+
+
+
+## iii) To find the maximum marks without using builtin functions.
+ 
+![pyth output 3 3 a](https://github.com/kancharlaNarmadha/FindMaximum/assets/119559316/5534ee69-8b88-4754-a968-544169bc54ab)
+
 
 
 ## Result:
